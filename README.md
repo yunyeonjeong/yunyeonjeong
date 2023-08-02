@@ -14,7 +14,7 @@
  >- JavaScript : 웹 페이지의 scroll, mouse 이벤트 제어
 > - jQuery를 이용한 DOM 제어
 
-## 배우고 있는 부분
+## 현재 공부하고 있는 부분
 React로 모바일 웹 제작
 
 ## 목표
