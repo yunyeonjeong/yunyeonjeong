@@ -15,11 +15,11 @@
 > - jQuery를 이용한 DOM 제어
 
 ## 현재 공부하고 있는 부분
-JavaScript
-React로 모바일 웹 제작
+#### JavaScript
+#### React로 모바일 웹 제작
 
 ## 목표
-JavaScript로 화려한 동적 웹페이지 구축
+#### JavaScript로 화려한 동적 웹페이지 구축
 
  ----------
 
